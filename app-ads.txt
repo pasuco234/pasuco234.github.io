@@ -1,0 +1,3 @@
+# app-ads.txt placeholder
+# AdMob への登録後に、公式形式の行をここへ追加します。
+# (Add the official-format lines here after AdMob registration.)
